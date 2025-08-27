@@ -20,7 +20,7 @@ Experience
   * Mastercard
   * Graduate product manager, building payment solutions for blockchains and digital assets.
 
-<!-- <!-- * Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -59,4 +59,4 @@ Teaching
   
 <!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams --> -->
+* Currently signed in to 43 different slack teams -->
