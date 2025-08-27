@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, UCL, 2029 (expected)
 * MSci Mathematics, UCL, 2024
 
-Work experience
+Experience
 ======
 * Associate Product Specialist, Sep 2024 - Sep 2025
   * Mastercard
