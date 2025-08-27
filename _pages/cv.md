@@ -16,10 +16,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Product Specialist, Sep 2024 - Sep 2025
+  * Mastercard
+  * Graduate product manager, building payment solutions for blockchains and digital assets.
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -60,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
