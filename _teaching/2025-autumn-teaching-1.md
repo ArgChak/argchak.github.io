@@ -2,7 +2,7 @@
 title: "TA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2025-autumn-teaching-1.md
 venue: "UCL"
 date: 2025
 ---
