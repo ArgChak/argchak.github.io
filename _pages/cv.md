@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, UCL, 2029 (expected)
+* PhD in Computer Science, UCL, 2029 (expected)
 * MSci Mathematics, UCL, 2024
 
 Experience
 ======
-* Associate Product Specialist, Sep 2024 - Sep 2025
-  * Mastercard
-  * Graduate product manager, building payment solutions for blockchains and digital assets.
+* Mastercard
+  * Associate Product Specialist, Sep 2024 - Sep 2025
+    * Graduate product manager, building payment solutions for blockchains and digital assets.
+
+  * Product Management Intern, Jun 2023 - Sep 2023
+    * Intern in the blockchain and digital asset team.
 
 <!-- * Fall 2015: Research Assistant
   * GitHub University
