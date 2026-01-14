@@ -1,13 +1,15 @@
 ---
-title: "TA"
+title: "PGTA"
 collection: teaching
 type: "Undergraduate courses"
 permalink:
 venue: "UCL"
-date: 2025-10-01
+date: 2025-26
 ---
 
 PGTA for:
+* COMP0003
 * COMP0009
+* COMP0199
+* COMP0238
 * MATH0037
-* MATH0050
